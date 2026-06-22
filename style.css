@@ -128,7 +128,10 @@ label{
 }
 .fraca{
     width: 25%;
+    height: 30px;
+    position: relative;
     background-color: #E71B32; 
+    bottom: 30px;
 }
 .media{
     background-color: #FAF408;
